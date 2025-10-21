@@ -34,7 +34,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2">
              <img
-                      src='public/assets/icon.png'
+                      src='assets/icon.png'
                       alt={'TecxSpend'}
                       className="h-8 w-8 object-contain mx-auto"
                     />
